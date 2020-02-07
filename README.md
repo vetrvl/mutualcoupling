@@ -1,2 +1,2 @@
 # mutualcoupling
-MIMO mutaul coupling capacity and others
+MIMO mutual coupling capacity and others for conformal antennas too
